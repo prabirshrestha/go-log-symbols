@@ -3,7 +3,12 @@
 > Colored symbols for various log levels for go.
 Ported from [https://github.com/sindresorhus/log-symbols](https://github.com/sindresorhus/log-symbols)
 
+### Mac/Linux
 ![](screenshot.png)
+
+### Windows
+
+![](screenshot_windows.png)
 
 ## Install
 
